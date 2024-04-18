@@ -35,10 +35,6 @@ AllPayCoin 생태계는 사용자와 판매자의 결제 및 거래를 지원하
 ### 코인교환
 ![코인교환](https://github.com/ywbigtech/allPayCoin/assets/167398963/c707c8ed-07bb-4f77-b63d-1230df7434f2)
 
-## Deployment / 배포
-
-Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
-
 ## Team Member
 * CEO 조현규
   * 서울문화예술대학교 사회복지학과
